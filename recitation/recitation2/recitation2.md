@@ -47,7 +47,7 @@ a. Write pseudocode for the program above.
 **(Remember giving meaningful names to variables that accurately describe their purpose)**
 
 ### Pseudocode:
-
+dd
 <br/><br/>
 <br/><br/>
 <br/><br/>
